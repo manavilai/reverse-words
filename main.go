@@ -16,7 +16,7 @@ type Input struct {
 	Word string `json:"word,omitempty"`
 }
 
-// Output reverse word
+// Output reverse word - vivek added
 type Output struct {
 	ReverseWord string `json:"reverse_word,omitempty"`
 }
