@@ -11,7 +11,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
 
-// Input word - vivek added
+// Input word - vivek added 2
 type Input struct {
 	Word string `json:"word,omitempty"`
 }
